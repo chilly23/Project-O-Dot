@@ -36,7 +36,7 @@ Current interfaces like mouse and touchpad aren’t practical for all environmen
 
 ---
 
-## 🛠Hardware Components
+## Hardware Components
 
 - Arduino Nano / Uno
 - 3 x Push buttons

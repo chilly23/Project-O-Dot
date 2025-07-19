@@ -1,4 +1,4 @@
-# O-dot: Hands-Free Eye-Tracking Interface with Smart Ring Control
+# O-dot: Hands-Free Eye-Tracking Interface with Smart Ring Control [Readme file written by GPT-4o]
 
 O-dot is a hybrid hardware-software interface that replaces the traditional mouse using just your eyes and a smart ring. The system lets users control a computer cursor by tracking their gaze through a webcam and execute mouse actions using a finger-worn smart ring. Ideal for accessibility, productivity, and even couch computing.
 
